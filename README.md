@@ -20,7 +20,7 @@
   <a href="https://github.com/knlox" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
   </a>
-  <a href="https://www.jobstreet.com.ph/https://ph.jobstreet.com/profile/franciscoiii-franco-wLLZ6jnGRF" target="_blank">
+  <a href="https://ph.jobstreet.com/profile/franciscoiii-franco-wLLZ6jnGRF" target="_blank">
     <img src="https://img.shields.io/static/v1?message=JobStreet&logo=briefcase&label=&color=00FF00&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="jobstreet logo" />
   </a>
 </div>
