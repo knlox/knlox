@@ -3,11 +3,6 @@
   <img height="200" src="https://media.giphy.com/media/KA593kO0JvXMs/giphy.gif" alt="matrix code animation" />
   
   <h1 style="color:#00FF00; font-family: 'Courier New', Courier, monospace;">Hello, it's me <span style="color:#39FF14;">Third</span>!</h1>
-  <h3 style="color:#00FF00; font-family: 'Courier New', Courier, monospace;">
-    &gt; SYSTEM_ONLINE<br/>
-    &gt; STATUS = { "ROLE": "Computer Engineer", "STACK": "Full-Stack Dev + CI4", "PROJECT": "<span style='color:#39FF14;'>KNLOX</span>" }<br/>
-    &gt; INITIATING...
-  </h3>
 
 </div>
 
