@@ -66,7 +66,7 @@
 ---
 ---
 
-### 📈 Contribution Graph
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=knlox&theme=react-dark&area=true&hide_border=true)
 
 ---
