@@ -46,5 +46,5 @@ I’m a passionate developer who loves turning ideas into real solutions — fro
 
 ---
 
-⭐️ *“Always curious, always building – let’s create something amazing together with KNLOX.”*
+*“Always curious, always building – KNLOX is where I practice, learn, and share my projects with the world.”*
 
