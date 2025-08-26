@@ -3,7 +3,7 @@
 
 🎓 **Computer Engineering Graduate** | 💻 **Full-Stack Developer** 
 
-I’m a passionate developer who loves turning ideas into real solutions — from web and mobile applications to IoT and AI-powered systems. My journey includes programming competitions, hackathons, and building my own tech brand **KNLOX**.  
+I’m a passionate developer who loves turning ideas into real solutions — from web and mobile applications to IoT and AI-powered systems. My journey includes programming competitions, hackathons, and developing projects under my personal initiative KNLOX, where I explore and showcase innovative software solutions.
 
 ---
 
