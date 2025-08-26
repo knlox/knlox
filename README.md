@@ -1,13 +1,4 @@
 
-<p align="center">
-  <img src="./knlox-banner.png" alt="KNLOX Banner" width="100%">
-</p>
-
-## KNLOX Video
-
-https://github.com/knlox/knlox/raw/main/KNLOX.mp4
-
-
 # Hi, I'm Engr. Francisco III G. Franco  
 
 🎓 **Computer Engineering Graduate** | 💻 **Full-Stack Developer** | **KNLOX Founder**  
