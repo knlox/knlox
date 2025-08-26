@@ -1,7 +1,7 @@
 
 # Hi, I'm Engr. Francisco III G. Franco  
 
-🎓 **Computer Engineering Graduate** | 💻 **Full-Stack Developer** | **KNLOX Founder**  
+🎓 **Computer Engineering Graduate** | 💻 **Full-Stack Developer** 
 
 I’m a passionate developer who loves turning ideas into real solutions — from web and mobile applications to IoT and AI-powered systems. My journey includes programming competitions, hackathons, and building my own tech brand **KNLOX**.  
 
