@@ -5,7 +5,7 @@
 
 ## KNLOX Video
 
-https://github.com/knlox/knlox/raw/main/knlox-demo.mp4
+https://github.com/knlox/knlox/raw/main/KNLOX.mp4
 
 
 # Hi, I'm Engr. Francisco III G. Franco  
